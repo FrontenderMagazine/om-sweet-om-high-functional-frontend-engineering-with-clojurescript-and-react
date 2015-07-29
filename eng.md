@@ -1,3 +1,5 @@
+# Om sweet Om: (high-)functional frontend engineering with ClojureScript and React
+
 At Prismatic, we're firm believers that great products come from a marriage of
 thoughtful design with rigorous engineering.[Effective design][1] requires
 making educated guesses about what works, building out solutions to test these 
